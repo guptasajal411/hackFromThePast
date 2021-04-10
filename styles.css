@@ -24,18 +24,19 @@ body{
     text-align: center;
     margin-top:5%;
 }
-#brandName{
+.brandNameContainer{
     font-family: 'Press Start 2P', cursive;
     font-size: 400%;
 }
-#brandTagline{
+.brandTagline{
     padding-top: 2%;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Lato', sans-serif;
     font-size: 4vh;
+    font-weight: bold;
 }
 .duckHunt{
-    padding-top: 30%;
-    padding-bottom: 20%;
+    padding-top: 10%;
+    padding-bottom: 26%;
     background-image: url("images/duckHunt.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -52,8 +53,8 @@ body{
 }
 .superMarioBros{
     background-color: black;
-    padding-top: 30%;
-    padding-bottom: 20%;
+    padding-top: 15%;
+    padding-bottom: 25%;
     background-image: url("images/newMarioBg.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -61,26 +62,28 @@ body{
 }
 .sonicTheHedgehog{
     background-color: black;
-    padding-top: 30%;
-    padding-bottom: 20%;
-    background-image: url("images/sonicTheHedgehog.png");
+    padding-top: 5%;
+    padding-bottom: 30%;
+    background-image: url("images/sonicTheHedgehogNew.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .roadrash{
+    color: white;
     background-color: black;
-    padding-top: 30%;
-    padding-bottom: 20%;
+    padding-top: 8%;
+    padding-bottom: 42%;
     background-image: url("images/roadrash.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .teenageMutantNinjaTurtles{
+    color: white;
     background-color: black;
-    padding-top: 30%;
-    padding-bottom: 20%;
+    padding-top: 15%;
+    padding-bottom: 30%;
     background-image: url("images/teenageMutantNinjaTurtles.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -88,7 +91,7 @@ body{
 }
 .pokemonRedAndBlue{
     background-color: black;
-    padding-top: 30%;
+    padding-top: 15%;
     padding-bottom: 20%;
     background-image: url("images/pokemonRedAndBlue.png");
     background-position: center;
@@ -97,8 +100,8 @@ body{
 }
 .pinball{
     background-color: black;
-    padding-top: 30%;
-    padding-bottom: 20%;
+    padding-top: 15%;
+    padding-bottom: 25%;
     background-image: url("images/pinball.png");
     background-position: center;
     background-repeat: no-repeat;
@@ -107,7 +110,7 @@ body{
 .solitaire{
     background-color: black;
     padding-top: 30%;
-    padding-bottom: 20%;
+    padding-bottom: 25%;
     background-image: url("images/solitaire.png");
     background-position: center;
     background-repeat: no-repeat;
