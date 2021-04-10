@@ -7,7 +7,7 @@ You can see the website [**here.**](http://guptasajal411.github.io/hackFromThePa
 This website is best viewed on desktops. Not optimized for mobile view. 
 
 ## Contributing Guide
- 
+* * *
 If you want to add your own game to the site, follow these steps:
 
 1. Fork the project repository.
@@ -20,7 +20,7 @@ If you want to add your own game to the site, follow these steps:
                 <div class="row">
                     <div class="col-4">
                         <h1 class="brandNameContainer">NAME OF THE VIDEO GAME</h1>
-                        <p style="text-align: center;" class="brandTagline">TAGLINE OF THE GAME</p>
+                        <p class="brandTagline">TAGLINE OF THE GAME</p>
                     </div>
                     <div class="col-8">
                     </div>
@@ -47,3 +47,5 @@ In styles.css,
 7. Commit your changes (`git commit -m "Add favorite game to the site"`)
 8. Push to the changes to your forked repo (`git push origin master`)
 9. Open a pull request and I will merge your contribution to the repo!
+
+* * *
