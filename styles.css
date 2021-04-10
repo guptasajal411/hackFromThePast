@@ -1,0 +1,124 @@
+body{
+    margin: 0;
+}
+.bg{
+    background-color: #7209B7;
+}
+.bgTextColor{
+    color: white;
+}
+.brandName{
+    font-family: 'Cinzel', serif;
+    padding-left: 3%;
+    color: white;
+}
+.topContainer{
+    padding-top: 7%;
+    padding-bottom: 20%;
+    background-image: url("images/newMarioBg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.branding{
+    text-align: center;
+    margin-top:5%;
+}
+#brandName{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 400%;
+}
+#brandTagline{
+    padding-top: 2%;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 4vh;
+}
+.duckHunt{
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/duckHunt.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tetris{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/tetris.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.superMarioBros{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/newMarioBg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sonicTheHedgehog{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/sonicTheHedgehog.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.roadrash{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/roadrash.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.teenageMutantNinjaTurtles{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/teenageMutantNinjaTurtles.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pokemonRedAndBlue{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/pokemonRedAndBlue.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pinball{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/pinball.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.solitaire{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/solitaire.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.minesweeper{
+    background-color: black;
+    padding-top: 30%;
+    padding-bottom: 20%;
+    background-image: url("images/minesweeper.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
