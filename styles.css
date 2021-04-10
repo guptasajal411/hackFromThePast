@@ -41,6 +41,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+
 }
 .tetris{
     background-color: black;
@@ -50,6 +52,8 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+
 }
 .superMarioBros{
     background-color: black;
@@ -59,6 +63,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .sonicTheHedgehog{
     background-color: black;
@@ -68,6 +73,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .roadrash{
     color: white;
@@ -78,6 +84,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .teenageMutantNinjaTurtles{
     color: white;
@@ -88,6 +95,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .pokemonRedAndBlue{
     background-color: black;
@@ -97,6 +105,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .pinball{
     background-color: black;
@@ -106,6 +115,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .solitaire{
     background-color: black;
@@ -115,6 +125,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
 .minesweeper{
     background-color: black;
@@ -124,4 +135,5 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
 }
