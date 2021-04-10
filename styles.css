@@ -2,10 +2,10 @@ body{
     margin: 0;
     /* overflow: hidden; */
 }
-.body::-webkit-scrollbar{
+body::-webkit-scrollbar{
     display: none;
 }
-.body{
+body{
     -ms-overflow-style: none;
     scrollbar-width: none;
 }
