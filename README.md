@@ -1,4 +1,4 @@
-# hackFromThePast-MLH
+# hackFromThePast
 A site with favourite video game memories from your childhood! Made with HTML and CSS.
 Now you can add your treasured games to the site too!
 
